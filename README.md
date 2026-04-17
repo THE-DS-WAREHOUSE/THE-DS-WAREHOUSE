@@ -78,6 +78,13 @@ Exploring TDA techniques for shape-based pattern recognition in high-dimensional
 
 ---
 
+### 🤖 AI-Powered Product API
+> FastAPI · AI Engineering · MLOps
+A production-ready REST API featuring user authentication, full CRUD operations, rate limiting middleware, and a natural language endpoint that queries a live database using GPT-4o-mini — bridging backend engineering with LLM integration.
+`FastAPI` `OpenAI` `SQLAlchemy` `REST API` `Authentication` `Python`
+
+---
+
 ## 💼 Professional Highlights
 
 | Role | Company | Impact |
@@ -124,6 +131,7 @@ Exploring TDA techniques for shape-based pattern recognition in high-dimensional
 
 **MLOps**
 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
