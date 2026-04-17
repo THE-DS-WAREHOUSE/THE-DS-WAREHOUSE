@@ -80,7 +80,9 @@ Exploring TDA techniques for shape-based pattern recognition in high-dimensional
 
 ### 🤖 AI-Powered Product API
 > FastAPI · AI Engineering · MLOps
+
 A production-ready REST API featuring user authentication, full CRUD operations, rate limiting middleware, and a natural language endpoint that queries a live database using GPT-4o-mini — bridging backend engineering with LLM integration.
+
 `FastAPI` `OpenAI` `SQLAlchemy` `REST API` `Authentication` `Python`
 
 ---
