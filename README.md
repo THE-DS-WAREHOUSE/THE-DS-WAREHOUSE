@@ -87,6 +87,15 @@ A production-ready REST API featuring user authentication, full CRUD operations,
 
 ---
 
+### 🐳 Financial Sentiment Service
+> FastAPI · FinBERT · Docker · MLOps
+
+A fully containerized NLP API that classifies financial text as positive, negative, or neutral using FinBERT — no external API keys required. Built with FastAPI, PostgreSQL, and Docker Compose, with the model running entirely inside the container.
+
+`Docker` `FinBERT` `FastAPI` `PostgreSQL` `HuggingFace` `Python`
+
+---
+
 ## 💼 Professional Highlights
 
 | Role | Company | Impact |
