@@ -58,17 +58,6 @@ Fine-tuned Google's Gemma LLM using **LoRA** for parameter-efficient training. B
 
 `PyTorch` `Hugging Face` `LoRA` `QLoRA` `GPU Training` `LLM Fine-Tuning`
 
----
-
-### 🤟 Real-Time Sign Language Recognition
-> Neural Networks · Jun 2023
-
-Built a real-time computer vision system for **Guatemalan sign language recognition** using OpenCV and MediaPipe. Trained and deployed a neural network classifier for live inference with low-latency gesture detection.
-
-`OpenCV` `MediaPipe` `Neural Networks` `Computer Vision` `Real-Time Inference`
-
----
-
 
 ### 🤖 AI-Powered Product API
 > FastAPI · AI Engineering · MLOps
@@ -94,6 +83,26 @@ A fully containerized NLP API that classifies financial text as positive, negati
 A multi-agent LangGraph system for financial document Q&A — featuring three chunking strategies, HuggingFace embeddings, ChromaDB retrieval, Pydantic AI structured outputs, and a full LangSmith observability and evaluation pipeline with faithfulness, relevance, and correctness scoring.
 
 `LangGraph` `LangSmith` `ChromaDB` `HuggingFace` `Pydantic AI` `FastAPI` `Docker` `Python`
+
+---
+
+### 🔧 Financial MCP Server
+> MCP · XGBoost · FinBERT · AI Engineering
+
+A production-grade MCP server exposing five financial AI tools — XGBoost credit risk scoring, XGBoost fraud detection, Sharpe ratio portfolio analysis, FinBERT market sentiment, and PostgreSQL transaction lookup — directly callable from Claude Desktop via the Model Context Protocol, with all models running locally inside the container.
+
+`MCP` `XGBoost` `FinBERT` `FastAPI` `PostgreSQL` `Docker` `Python`
+
+---
+
+---
+
+### 🚨 Sucursal Alert Agent
+> LangGraph · Apache Airflow · MLOps · AI Engineering
+
+A multi-agent LangGraph system that monitors 24 retail sucursals daily, detects performance red zones using fixed thresholds, 7-day rolling averages, and z-score anomaly detection, then performs GPT-4o-mini root cause analysis and pushes independent Slack alerts per sucursal from a PostgreSQL Gold Layer — fully orchestrated with Apache Airflow.
+
+`LangGraph` `Apache Airflow` `OpenAI` `PostgreSQL` `Slack` `Docker` `Anomaly Detection` `Python`
 
 ---
 
@@ -130,6 +139,8 @@ A multi-agent LangGraph system for financial document Q&A — featuring three ch
 ![LoRA](https://img.shields.io/badge/LoRA-QLoRA-FF6B6B?style=flat)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat)
 ![PydanticAI](https://img.shields.io/badge/Pydantic_AI-E92063?style=flat&logo=pydantic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-FF6F00?style=flat)
+![FinBERT](https://img.shields.io/badge/FinBERT-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
 **Data Engineering**
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
@@ -155,6 +166,7 @@ A multi-agent LangGraph system for financial document Q&A — featuring three ch
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 
 ## 📈 GitHub Stats
 
